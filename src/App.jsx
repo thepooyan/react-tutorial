@@ -3,9 +3,9 @@ import Amin from "./Amin"
 function App() {
   return (
     <div>
-      <Amin/>
-      <Amin/>
-      <Amin/>
+      <Amin color='red' />
+      <Amin weight='100k' color='ghanari' />
+      <Amin color='' />
     </div>
   )
 }
