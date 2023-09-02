@@ -9,6 +9,7 @@ function Amin(props) {
         <div className='amin'>
             this is the koskhole amin! with color {props.color} -
             {props.weight? "and my weight is " + props.weight : ""}
+            {props.weight && "weight vojod darad!"}
         </div>
     )
 }
