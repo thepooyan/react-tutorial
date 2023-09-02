@@ -6,7 +6,7 @@ const App = () => {
     <>
         <p className='lkdsjf' onClick={()=>{alert('click')}}>this is paragraph</p>
         <p style={{color: "red"}}>ews</p> 
-        
+            
     </>
   )
 }
